@@ -1,4 +1,4 @@
-# QuikBazaar -  E-commerce WebApplication
+# Fluxmarket -  E-commerce WebApplication
 
 Welcome to QuikBazaar, a feature-rich e-commerce platform that seamlessly integrates a robust React.js front end with a powerful Spring Boot backend, backed by MySQL for data storage. This full-stack solution exemplifies my expertise in creating dynamic and scalable web applications.
 
